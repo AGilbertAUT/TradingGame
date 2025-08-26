@@ -77,7 +77,7 @@ spectator_mode = str(params.get("mode", [""])[0]).lower() in {"spectator","leade
 
 if spectator_mode:
     st.title("🏆 Live Leaderboard (Spectator Mode)")
-    st.autorefresh(interval=5000, key="auto")
+    st.caption("🔄 Refresh the page (Ctrl+R / Cmd+R) to update the leaderboard.")
     sub = load_submissions()
     board = compute_leaderboard(sub)
     if board.empty:
@@ -128,7 +128,7 @@ else:
     # --- Leaderboard tab ---
     with tabs[1]:
         st.title("🏆 Live Leaderboard")
-        st.autorefresh(interval=5000, key="lb")
+        st.caption("🔄 Refresh the page (Ctrl+R / Cmd+R) to update the leaderboard.")
         sub = load_submissions()
         board = compute_leaderboard(sub)
         if board.empty:
