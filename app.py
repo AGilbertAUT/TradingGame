@@ -72,7 +72,7 @@ st.set_page_config(page_title="Trading Room Game", page_icon="📈", layout="wid
 cfg = load_config(CONFIG_PATH)
 
 # Check for spectator mode
-params = st.experimental_get_query_params()
+params = st.query_params()
 spectator_mode = str(params.get("mode", [""])[0]).lower() in {"spectator","leaderboard"}
 
 if spectator_mode:
