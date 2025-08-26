@@ -1,0 +1,10 @@
+timestamp,participant,round,headline,choice_CEN,choice_FBU,choice_AIR,choice_FPH,choice_WHS,return_CEN,return_FBU,return_AIR,return_FPH,return_WHS,round_score,cum_score_after
+2025-08-08T10:35:44,Team awesome,1,"RBNZ hikes, but hints at a pause",Sell,Sell,Hold,Buy,Buy,2.0,-1.0,-1.0,1.0,1.0,1.0,1.0
+2025-08-08T10:36:37,Team awesome,2,Oil shock after Middle East disruption,Buy,Sell,Sell,Buy,Hold,1.0,-2.0,-3.0,0.0,1.0,6.0,7.0
+2025-08-08T10:37:03,Team awesome,3,NZ-China trade deal signed,Sell,Sell,Buy,Buy,Buy,0.0,2.0,2.0,-1.0,1.0,0.0,7.0
+2025-08-08T10:37:32,Team awesome,4,Cyclone batters North Island,Buy,Buy,Sell,Hold,Sell,2.0,-3.0,-2.0,2.0,-1.0,2.0,9.0
+2025-08-08T10:37:51,Team awesome,5,NZD slumps on weak GDP print,Hold,Sell,Buy,Buy,Sell,-1.0,0.0,1.0,2.0,-2.0,5.0,14.0
+2025-08-08T16:02:09,Haha,1,"RBNZ hikes, but hints at a pause",Buy,Sell,Buy,Sell,Hold,2.0,-1.0,-1.0,1.0,1.0,1.0,1.0
+2025-08-08T16:02:25,Haha,2,Oil shock after Middle East disruption,Sell,Buy,Hold,Sell,Buy,1.0,-2.0,-3.0,0.0,1.0,-2.0,-1.0
+2025-08-18T10:10:03,Tehe,1,"RBNZ hikes, but hints at a pause",Buy,Sell,Sell,Buy,Sell,2.0,-1.0,-1.0,1.0,1.0,4.0,4.0
+2025-08-18T10:10:21,Tehe,2,Oil shock after Middle East disruption,Sell,Buy,Sell,Buy,Buy,1.0,-2.0,-3.0,0.0,1.0,1.0,5.0
